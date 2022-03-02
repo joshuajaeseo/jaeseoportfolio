@@ -1,0 +1,125 @@
+img, 
+video {
+    width: 500px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+nav {
+    color: black;
+    margin-right:100px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Effra";
+    position: absolute;
+    padding-left: 165vh;
+    
+}
+
+
+header{
+    position: relative;
+}
+
+nav a{
+    display: flexbox;
+    justify-content: right;
+    padding-right: 12px;
+}
+
+
+h1{
+    margin-top: 50px;
+    font-family: 'Effra';
+    text-align: center;
+    letter-spacing: 8px;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+h2, h3, h6 {
+    font-family: "Effra";
+    font-size: 17px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    letter-spacing: 4;
+}
+
+h2 {
+    font-size: 29px;
+}
+
+
+p {
+    font-family: "Effra";
+    margin-left:10%;
+    margin-right:10%;
+}
+
+footer {
+    text-align: right;
+}
+
+.pagegallery, .photo-gallery {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-bottom: 5%;
+}
+
+.photo-gallery img{
+    margin: auto;
+}
+
+#abilitylab{
+    margin: auto;
+    width: 70%;
+}
+
+
+.photo-gallery{
+    padding-bottom:3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.subheading{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.photo{
+    display: flex;
+    margin: auto;
+    padding-top: 5%;
+}
+
+.about{
+    display: flex;
+    margin-left: 15%;
+    
+}
+
+
+ .multiple {
+     width: 35%;
+     padding-right: 12px;
+ }
+
+.frontpage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frontpage a {
+    margin-left: 10%;
+}
+
+.frontpage {
+    padding-top: 3%;
+}
