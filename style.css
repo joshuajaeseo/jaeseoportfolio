@@ -9,7 +9,7 @@ a{
 }
 nav {
     color: black;
-    margin-right:100px;
+    margin-right:20%;
     text-decoration: none;
     font-size: 18px;
     font-family: "Effra";
@@ -107,7 +107,7 @@ footer {
 
  .multiple {
      width: 35%;
-     padding-right: 12px;
+
  }
 
 .frontpage{
@@ -122,4 +122,9 @@ footer {
 
 .frontpage {
     padding-top: 3%;
+}
+
+body{
+    margin-left: 10%;
+    margin-right: 10%;
 }
